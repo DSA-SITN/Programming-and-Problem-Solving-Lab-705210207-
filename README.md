@@ -1,5 +1,5 @@
-# Programming-and-Problem-Solving-Lab-705210207- Contain information related to PPS Lab assignment
-Welcome to the course! Below is the list of experiments you will perform:
+# Programming-and-Problem-Solving-Lab-705210207
+Welcome to the course! Below is the list of experiments:
 
 ## Sr.No	  Assignements
 ## 1	Design and develop a flowchart or an algorithm for finding area of a circle, rectangle, square & triangle.
